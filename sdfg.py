@@ -1,0 +1,5 @@
+p=int(input("enter your p"))
+n=int(input("enter your n"))
+r=float(input("enter ypur r"))
+si=eval('(p*n*r)/100')
+print(si)
